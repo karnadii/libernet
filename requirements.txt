@@ -10,7 +10,6 @@ ip-full
 kmod-tun
 openssh-client
 shadowsocks-libev-ss-local
-dnsmasq-full
 stubby
 php7
 php7-cgi
